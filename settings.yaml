@@ -1,6 +1,16 @@
 Header_Color:
-  default: "#333"
-  type: color
+  default: "default"
+  type: enum
+  values:
+    - "default"
+    - "red"
+    - "blue"
+    - "green"
+    - "yellow"
+    - "purple"
+    - "orange"
+    - "pink"
+    - "gray"
   client: true
 
 Logo_Image:
