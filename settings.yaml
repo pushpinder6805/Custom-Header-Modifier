@@ -32,23 +32,3 @@ Header_Height:
   default: 50
   type: integer
   client: true
-
-Header_Text:
-  default: ""
-  type: text
-  client: true
-
-Icon_1:
-  default: ""
-  type: text
-  client: true
-
-Icon_2:
-  default: ""
-  type: text
-  client: true
-
-Icon_3:
-  default: ""
-  type: text
-  client: true
