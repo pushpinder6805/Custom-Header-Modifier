@@ -9,27 +9,27 @@ Logo_Image:
   client: true
 
 Logo_Width:
-  default: ""
+  default: 100
   type: integer
   client: true
 
 Logo_Height:
-  default: ""
+  default: 50
   type: integer
   client: true
 
 Header_Font:
-  default: ""
+  default: "Arial"
   type: enum
   values:
     - Arial
-    - Times New Roman
+    - "Times New Roman"
     - Helvetica
-    - Courier New
+    - "Courier New"
   client: true
 
 Header_Height:
-  default: ""
+  default: 50
   type: integer
   client: true
 
