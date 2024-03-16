@@ -1,16 +1,17 @@
 Header_Color:
   default: "default"
-  type: enum
+  type: list
+  list_type: simple
   values:
-    - "default"
-    - "red"
-    - "blue"
-    - "green"
-    - "yellow"
-    - "purple"
-    - "orange"
-    - "pink"
-    - "gray"
+    - default
+    - red
+    - blue
+    - green
+    - yellow
+    - purple
+    - orange
+    - pink
+    - gray
   client: true
 
 Logo_Image:
